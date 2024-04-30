@@ -1,0 +1,5 @@
+contenu du partiel :
+
+un menu pause quand on appuie sur p avec un bouton continue et quit qui marche 
+un ia qui suit le player mais pas sur car le nav mesh est etrangement buggué 
+un score avec des cubes ramassable qui est censé incrementez le score mais ca marche po ca incremente pas le score...
